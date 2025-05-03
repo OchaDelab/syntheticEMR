@@ -1,0 +1,16 @@
+.mode csv
+.import --skip 1 ./data/10000/1.patient_info.csv patient
+.mode csv
+.import --skip 1 ./data/10000/2.date_info.csv date
+.mode csv
+.import --skip 1 ./data/10000/3.injury_illness_info.csv injury_illness
+.mode csv
+.import --skip 1 ./data/10000/4.surgery_info.csv surgery
+.mode csv
+.import --skip 1 ./data/10000/5.drug_info.csv drug
+.mode csv
+.import --skip 1 ./data/10000/6.inspection_info.csv inspection
+.mode csv
+.import --skip 1 ./data/10000/7.treatment_info_addID.csv treatment
+.mode csv
+.import --skip 1 ./data/10000/8.vital_sign_info.csv vital_sign
