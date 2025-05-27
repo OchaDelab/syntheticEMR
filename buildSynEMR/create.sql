@@ -3,9 +3,6 @@
 -------------------------------------------
 \set database_name synEMR;
 
--- To run from a terminal:
---  psql -h <database_server> -d fapis2 -U fapisadmin -f ./buildfapis/create.sql
-
 -------------------------------------------
 -- Create the tables for synEMR --
 -------------------------------------------
