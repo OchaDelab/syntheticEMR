@@ -1,6 +1,7 @@
 # syntheticEMR
 
 **syntheticEMR** is a synthetic electronic medical record dataset consisting of 8 relational tables. It is designed to simulate real-world EMR data and support data analysis, research, and educational use.
+The sqlite database file is **syntheticEMR.db**.
 
 ---
 
